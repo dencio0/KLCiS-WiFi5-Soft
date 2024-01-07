@@ -12,10 +12,8 @@
         -->
         
         <select class="form-control" id="amountDropdown" name="amount" style="font-size:16px; font-weight:500; color:green;">
-          <option value="10">₱10.00 - 5 HOURS UNLIMITED INTERNET</option>
-          <option value="20">₱20.00 - 1 DAY UNLIMITED INTERNET</option>
-          <option value="100">₱100.00 - 7 DAYS UNLIMITED INTERNET </option>
-		  <option value="11">₱11.00 CREDIT </option>
+          <option value="15">₱15.00 - 1 DAY UNLIMITED</option>
+          
         </select>
         
       </div>
